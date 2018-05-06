@@ -1,6 +1,6 @@
 # MagicTooltipView
 
-![Magic tooltip popup window demo](https://github.com/filippella/MagicTooltipView/blob/master/screenshots/tooltip-demo.png | width=100)
+![Magic tooltip popup window demo](https://github.com/filippella/MagicTooltipView/blob/master/screenshots/tooltip-demo.png)
 
 How to use?
 
